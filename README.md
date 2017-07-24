@@ -4,7 +4,7 @@ erp_ceo is an script for EternityRP.
 
 You can use in your server.
 
-## **YOU NEED TO WAIT THE SQL FILE !!! (SOON)**
+### **YOU NEED TO WAIT THE SQL FILE !!! (SOON)**
 
 ### Current Features
 
